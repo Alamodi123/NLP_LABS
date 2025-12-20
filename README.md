@@ -1,45 +1,35 @@
-# 👋 Hi there, I'm Abdulrahman Alamodi!
+# 🧠 Natural Language Processing Labs
 
-🎓 Computer Science Student @AIU (Malaysia)  
-📊 Passionate about Data Science, AI & Web Development  
-🔁 Turning Data into Intelligent Solutions  
-🌱 Currently building my skills through hands-on projects  
-🚀 Fast learner, ready to prove myself through action
+This repository contains my lab works for the **Natural Language Processing** course at **Albukhary International University (AIU)**.  
+Each lab explores key NLP techniques using **Python**, **NLTK**, and **spaCy**.
 
 ---
 
-## 🧠 About Me
-
-I’m a computer science student specializing in Data Science & AI, on a journey to transform from “empty hands” to impactful contributions.
-
-Though I started with little project experience, I’ve made a clear decision to change that. I'm now focused on building real-world solutions and growing fast in public — sharing what I learn along the way.
+## 📘 Overview
+Natural Language Processing (NLP) focuses on teaching computers to understand and process human language.  
+These labs show how to transform unstructured text into structured, meaningful data through different NLP stages.
 
 ---
 
-## 💼 What I’m Working On
-- Building my first data dashboard using **Python, Pandas, and Streamlit**
-- Exploring frontend web development with **HTML, CSS, JavaScript**
-- Learning about **AI agents** and automation tools
+## 🧩 Lab Contents
+
+| **Lab** | **Title / Topic** | **Description** |
+|----------|------------------|-----------------|
+| **Lab 1** | Building NLP Pipeline (Text Preprocessing) | Implemented tokenization, stemming, lemmatization, stop word removal, POS tagging, dependency parsing, and named entity recognition. |
+| **Lab 2** | Understanding & Analyzing Words, Phrases, and Clauses | Covered phrase chunking with NLTK, clause identification with spaCy, and hierarchical syntax trees. |
+| **Lab 3** | Feature Engineering: Converting Text into Numerical Representations | Implemented one-hot encoding, N-grams, TF-IDF, and trained word embeddings (CBOW & Skip-gram) with T-SNE visualization.  |
+| **Lab 4** | Text Classification with Machine Learning | Implemented text cleaning and preprocessing, applied Bag-of-Words and TF-IDF vectorization, trained multiple classifiers (Naive Bayes, SVM, Logistic Regression, Random Forest), and evaluated their performance on spam and news classification tasks. |
+| **Lab 5** | Text Summarization: Extractive & Abstractive Methods | Implemented TextRank and LexRank for extractive summarization, built an Encoder–Decoder Seq2Seq model for abstractive summarization, and evaluated results using ROUGE metrics. |
+| **Lab 6** | *To be updated* |  |
+| **Lab 7** | *To be updated* |  |
 
 ---
 
-## 🚀 Skills in Progress
-- `Python` • `AI & ML & DL & NLP` • `Data Analysis` • `Data Engineering` • `MLops & Devops`  
-- `Full-Stack` • `Automation Agents`
-  
-## 📌 Goals
-- 💡 Land a data-focused internship in the next 5 months  
-- 📈 Build and publish multiple projects to GitHub  
-- 🧠 Deepen skills in AI & automation before graduation  
-- 🧪 Use my Final Year Project to solve a real problem  
+## 🧮 Technologies & Libraries
+- Python 3.x  
+- NLTK  
+- spaCy  
+- Jupyter Notebook  
 
 ---
 
-## 🌐 Let's Connect
-
-🔗 [LinkedIn](https://www.linkedin.com/in/abdualrahmanalamodi)  
-📬 Always open to collaborations, mentorship, or just a chat!
-
----
-
-> "They thought I was lazy — now I’m proving them wrong, one commit at a time." 🧠🔥
